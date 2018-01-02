@@ -1,0 +1,4 @@
+npm install --save-dev mocha chai
+mocha para realizar los test
+chai para realizar aserciones, es el valor que espero me duevuelva la funcion
+son librerias
